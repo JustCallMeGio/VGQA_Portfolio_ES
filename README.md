@@ -11,7 +11,7 @@ Hola, soy Giovanni Delucchi, Analista Programador de profesion y Jugador de Vide
 # Comunicación
 - Discord : JustCallMeGio
 - E-Mail : giovanni@delucchi.net
-           giovannidelucchi99@gmail.cl
+           giovannidelucchi99@gmail.com
 
 # Experiencia
 
