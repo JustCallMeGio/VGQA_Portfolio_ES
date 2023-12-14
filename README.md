@@ -1,4 +1,4 @@
-![Top100Juegos](https://github.com/JustCallMeGio/VGQA_Portfolio_ES/assets/52637568/78f67e17-b0ea-4161-9a51-a02f8dbd6340)Portafolio de Video Game QA en Español
+Portafolio de Video Game QA en Español
 
 # Presentación
 
