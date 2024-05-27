@@ -6,7 +6,7 @@ Hola, soy Giovanni Delucchi, Analista Programador de profesion y Jugador de Vide
 
 # Curriculum Profesional
 
-- CV: [Curriculum vitae.pdf](https://github.com/JustCallMeGio/VGQA_Portfolio_ES/files/13667157/Curriculum.vitae.pdf)
+- CV: [Curriculum vitae.pdf](https://github.com/JustCallMeGio/VGQA_Portfolio_ES/files/13667157/Curriculum.vitae.pdf) [No Actualizado]
 
 - Acceso a mi [Linkedin](https://www.linkedin.com/in/giovanni-delucchi-poblete-5a647a169/)
 
@@ -16,12 +16,14 @@ Hola, soy Giovanni Delucchi, Analista Programador de profesion y Jugador de Vide
            giovannidelucchi99@gmail.com
 
 # Experiencia
+- [The Eightfold Path](https://store.steampowered.com/app/1736620/The_Eightfold_Path/) PC | Xbox, 2024, Friendly Llama.
+QA Lead en la etapa final del juego, 2 meses de QA intensivo en preparación al lanzamiento, alta cantidad de bugs reportados a traves de la plataforma que más le conveniera a los desarrolladores. Trabajo Remoto, de Practicante.
 
 - [Finding Paradise](https://play.google.com/store/apps/details?id=com.xd.xztt.global.google&hl=en_US), Android,  2022, XD Inc.
 Localization QA para la versión en Español y la versión Latinoamericana, durante el periodo de pruebas que pude inscribirme terminé el juego varias veces y entregué sobre 20 Reportes de Bugs distintos tras revisar varias veces, la gran parte de ellos relevantes a la traducción hispanohablante
 
-- [Helskate](https://store.steampowered.com/app/1295630/Helskate/), PC, En Desarrollo, Phantom Coast
-Playtesting general no profesional voluntario previo al lanzamiento del juego, aún en progreso.
+- [Helskate](https://store.steampowered.com/app/1295630/Helskate/), PC, Early Access, Phantom Coast
+Playtesting general no profesional voluntario previo al lanzamiento del juego.
 
 - Otras experiencias pequeñas en eventos de gamedevs probando demos y dando feedback a multiples videojuegos de la región
 
@@ -33,7 +35,7 @@ Playtesting general no profesional voluntario previo al lanzamiento del juego, a
 - CERTIFICADO EN DISEÑO ÁGIL DE SISTEMAS, Inacap
 
 # Otros
-- Plataformas Actuales de las que soy dueño: Nintendo Switch, PC 3070Ti, Xbox Series X, Meta Quest 2, PlayStation 4
+- Plataformas Actuales de las que soy dueño: Nintendo Switch, PC RTX3070Ti, PC RTX2060, Xbox Series X, Meta Quest 2, PlayStation 4, Telefono Movil con sistema Android (Xiamoi Mi 10T)
 - Mis 100 Juegos Favoritos: 
 
 ![Top100Juegos](https://github.com/JustCallMeGio/VGQA_Portfolio_ES/assets/52637568/474cd814-8143-4bc2-a7ee-3562775076d4)
