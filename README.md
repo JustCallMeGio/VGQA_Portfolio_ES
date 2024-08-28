@@ -25,6 +25,14 @@ Localization QA para la versión en Español y la versión Latinoamericana, dura
 - [Helskate](https://store.steampowered.com/app/1295630/Helskate/), PC, Early Access, Phantom Coast
 Playtesting general no profesional voluntario previo al lanzamiento del juego.
 
+-[Arzette: The Jewel of Faramore RANDOMIZER Mod](https://github.com/nicolasberube/Arzette_Randomizer/releases)
+Playtesting y busqueda de errores de lógica y errores normales para el mod de Randomizer codesarrollado por el creador del juego (Dopply) y un usuario llamado Lightmopp
+
+- Playtesting públicos de registro rápido a través de Steam:
+-- [Hades II](https://store.steampowered.com/app/1145350/Hades_II/)
+
+- Tester Freelancer para plataformas Testlio y uTest
+  
 - Otras experiencias pequeñas en eventos de gamedevs probando demos y dando feedback a multiples videojuegos de la región
 
 # Certificaciones
@@ -33,9 +41,15 @@ Playtesting general no profesional voluntario previo al lanzamiento del juego.
 - CERTIFICADO EN DESARROLLO DE APLICACIONES BÁSICAS, Inacap
 - CERTIFICADO EN DISEÑO Y GESTIÓN DE BASE DE DATOS, Inacap
 - CERTIFICADO EN DISEÑO ÁGIL DE SISTEMAS, Inacap
+- CERTIFICADO EN DESARROLLADOR FULLSTACK, Inacap
+
+# Cursos
+- Electivo de Tendencias del Sector Comercial I: Pruebas de Software, Inacap
+- Kick off your gaming QA career: basics of testing for games, Udemy
+- Desarrollo de Videojuegos 3D, Inacap
 
 # Otros
-- Plataformas Actuales de las que soy dueño: Nintendo Switch, PC RTX3070Ti, PC RTX2060, Xbox Series X, Meta Quest 2, PlayStation 4, Telefono Movil con sistema Android (Xiamoi Mi 10T)
+- Plataformas Actuales de las que soy dueño: Nintendo Switch, PC RTX3070Ti, PC RTX2060, Xbox Series X, Meta Quest 2, PlayStation 4, Telefono Movil con sistema Android (Xiamoi Mi 10T), iPad 9Na Generación, iPhone SE 2016 
 - Mis 100 Juegos Favoritos: 
 
 ![Top100Juegos](https://github.com/JustCallMeGio/VGQA_Portfolio_ES/assets/52637568/474cd814-8143-4bc2-a7ee-3562775076d4)
