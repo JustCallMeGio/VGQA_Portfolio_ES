@@ -25,11 +25,10 @@ Localization QA para la versión en Español y la versión Latinoamericana, dura
 - [Helskate](https://store.steampowered.com/app/1295630/Helskate/), PC, Early Access, Phantom Coast
 Playtesting general no profesional voluntario previo al lanzamiento del juego.
 
--[Arzette: The Jewel of Faramore RANDOMIZER Mod](https://github.com/nicolasberube/Arzette_Randomizer/releases)
+- [Arzette: The Jewel of Faramore RANDOMIZER Mod](https://github.com/nicolasberube/Arzette_Randomizer/releases)
 Playtesting y busqueda de errores de lógica y errores normales para el mod de Randomizer codesarrollado por el creador del juego (Dopply) y un usuario llamado Lightmopp
 
-- Playtesting públicos de registro rápido a través de Steam:
--- [Hades II](https://store.steampowered.com/app/1145350/Hades_II/)
+- Playtesting públicos de registro rápido a través de Steam de [Hades II](https://store.steampowered.com/app/1145350/Hades_II/)
 
 - Tester Freelancer para plataformas Testlio y uTest
   
