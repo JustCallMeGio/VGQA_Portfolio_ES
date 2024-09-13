@@ -32,6 +32,10 @@ Playtesting general no profesional voluntario previo al lanzamiento del juego.
   
 Playtesting y busqueda de errores de lógica y errores normales para el mod de Randomizer codesarrollado por el creador del juego (Dopply) y un usuario llamado Lightmopp
 
+- [Galactic Thunderdome](https://store.steampowered.com/app/1219800/Galactic_Thunderdome/)
+
+Playtesting de matchmaking y online, tanto hosting como ingreso a lobbies y gameplay general
+
 - Playtesting públicos de registro rápido a través de Steam de
 
 -- [Hades II](https://store.steampowered.com/app/1145350/Hades_II/)
